@@ -1,3 +1,3 @@
 # plotTrajectories
 
-plot 2D trajectories from [file](https://github.com/roboticslab-uc3m/tools/blob/b48e62e62f99c465982ab2bfd42c50cb80fb3a38/programs/plotTrajectories/plotTrajectories.py#L16).
+plot 2D trajectories from [file](https://github.com/roboticslab-uc3m/data-visualization/blob/0464d61a78821acc60a094d20930f85183cbd12a/programs/plotTrajectories/plotTrajectories.py#L16).
