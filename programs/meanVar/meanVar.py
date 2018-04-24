@@ -13,7 +13,7 @@ import numpy as np
 
 features1=[3,4] #column features to use from trajectory1
 
-d1="data/Trajectory-IET-Iron.txt" #Trajectory 1 file name
+d1="Example-IET-Iron.txt" #Trajectory 1 file name
 
 ##########################################################
 def main():
