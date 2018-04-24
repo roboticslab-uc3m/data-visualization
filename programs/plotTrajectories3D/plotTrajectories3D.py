@@ -28,7 +28,7 @@ def main():
 
     #Read Trajectory 1
 
-    Traj1=np.loadtxt("Trajectory-generalized.txt")
+    Traj1=np.loadtxt("example-iron-rightArm-demons.txt")
 
     #Read Trajectory 2
 
@@ -51,6 +51,11 @@ def main():
     #ax.plot(Traj2[:][:,X_COL+1],Traj2[:][:,Y_COL+1],Traj2[:][:,Z_COL+1])
     #ax.plot(Traj3[:][:,X_COL],Traj3[:][:,Y_COL],Traj3[:][:,Z_COL])
     #ax.plot(Traj4[:][:,X_COL],Traj4[:][:,Y_COL],Traj4[:][:,Z_COL])
+
+    ax.set_xlabel('X')
+    ax.set_ylabel('Y')
+    ax.set_zlabel('Z')
+
 
 
     ############################### PLOT ALL 2D #######################################
