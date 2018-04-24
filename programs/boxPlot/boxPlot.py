@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python
 
 ## numpy is used for creating fake data
 import numpy as np 
@@ -37,11 +37,4 @@ ax.set_ylabel('Real Iteration Time (s)')
 bp = ax.boxplot(data_to_plot, widths = 0.9)
 
 
-
 plt.show()
-
-
-
-
-
-
