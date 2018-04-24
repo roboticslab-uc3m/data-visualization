@@ -13,17 +13,17 @@ font = {'family' : 'Helvetica',
 plt.rc('font', **font)
 
 
-plt.plotfile('Generalized.txt', delimiter=' ', cols=(0, 1),
-                     names=('Time interval', 'Wall Painted (%)'), marker='s', label='Generalized', linewidth=7.0)
+plt.plotfile('example-percentage-painted-ideal.txt', delimiter=' ', cols=(0, 1),
+                     names=('Time interval', 'Wall Painted (%)'), marker='s', label='Ideal', linewidth=7.0)
 
-plt.plotfile('FTE-Paint-Percentage.txt', delimiter=' ', cols=(0, 1), newfig=False, 
-                     names=('Time interval', 'Wall Painted (%)'), marker='x', label='FTE', linewidth=2.0)
+plt.plotfile('example-percentage-painted-demons.txt', delimiter=' ', cols=(0, 1), newfig=False, 
+                     names=('Time interval', 'Wall Painted (%)'), marker='x', label='Demonstrations', linewidth=2.0)
 
-plt.plotfile('IET-Paint-Percentage.txt', delimiter=' ', cols=(0, 1), newfig=False,
-                     names=('Time interval', 'Wall Painted (%)'), marker='o', label='IET', linewidth=2.0)
+#plt.plotfile('IET-Paint-Percentage.txt', delimiter=' ', cols=(0, 1), newfig=False,
+#                     names=('Time interval', 'Wall Painted (%)'), marker='o', label='IET', linewidth=2.0)
 
-plt.plotfile('OET-Paint-Percentage.txt', delimiter=' ', cols=(0, 1), newfig=False,
-                     names=('Time interval', 'Wall Painted (%)'), marker='^', label='OET', linewidth=2.0)
+#plt.plotfile('OET-Paint-Percentage.txt', delimiter=' ', cols=(0, 1), newfig=False,
+#                     names=('Time interval', 'Wall Painted (%)'), marker='^', label='OET', linewidth=2.0)
 
 plt.legend(loc=2)
 
