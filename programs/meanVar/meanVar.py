@@ -1,4 +1,6 @@
+#!/usr/bin/env python
 # -*- coding: utf-8 -*-
+
 """
 Author: Raul Fernandez-Fernandez (rauferna@ing.uc3m.es)
 Robotics Lab. Universidad Carlos III de Madrid
@@ -33,4 +35,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
