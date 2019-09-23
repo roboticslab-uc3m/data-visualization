@@ -8,3 +8,4 @@ Data visualization tools: plots, histograms...
 - [pavlin-policar/fastTSNE](https://github.com/pavlin-policar/fastTSNE)
 - [HarisIqbal88/PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet)
 - [facebookresearch/visdom](https://github.com/facebookresearch/visdom)
+- [rdeits/meshcat-python](https://github.com/rdeits/meshcat-python)
