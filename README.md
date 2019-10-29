@@ -9,3 +9,4 @@ Data visualization tools: plots, histograms...
 - [HarisIqbal88/PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet)
 - [facebookresearch/visdom](https://github.com/facebookresearch/visdom)
 - [rdeits/meshcat-python](https://github.com/rdeits/meshcat-python)
+- [facontidavide/PlotJuggler](https://github.com/facontidavide/PlotJuggler)
