@@ -9,4 +9,4 @@ Data visualization tools: plots, histograms...
 - [facebookresearch/visdom](https://github.com/facebookresearch/visdom)
 - [rdeits/meshcat-python](https://github.com/rdeits/meshcat-python)
 - [facontidavide/PlotJuggler](https://github.com/facontidavide/PlotJuggler)
-- [t-SNE](https://lvdmaaten.github.io/tsne/) (also [pavlin-policar/fastTSNE](https://github.com/pavlin-policar/fastTSNE) and [CannyLab/tsne-cuda](https://github.com/CannyLab/tsne-cuda))
+- [t-SNE](https://lvdmaaten.github.io/tsne/) (also [pavlin-policar/openTSNE](https://github.com/pavlin-policar/openTSNE) and [CannyLab/tsne-cuda](https://github.com/CannyLab/tsne-cuda))
